@@ -1,0 +1,39 @@
+CTYPE html>
+<html>
+<head>
+<style>
+a:link {
+    color: green;
+        background-color: transparent;
+	    text-decoration: none;
+	    }
+	    a:visited {
+	        color: pink;
+		    background-color: transparent;
+		        text-decoration: none;
+			}
+			a:hover {
+			    color: red;
+			        background-color: transparent;
+				    text-decoration: underline;
+				    }
+				    a:active {
+				        color: yellow;
+					    background-color: transparent;
+					        text-decoration: underline;
+						}
+						</style>
+						</head>
+						<body>
+
+						<p>You can change the default colors of links</p>
+
+						<a href="https://www.google.lk/?gfe_rd=cr&ei=XqN4V9bjN8PU8Af02IiYBQ&gws_rd=ssl" target="_blank">HTML Images</a>
+
+						<a href="file:///C:/Users/Resa/Desktop/New%20folder/externalstyling.html" target="_parent"> This is a heading one</a>
+
+						</body>
+						</html>
+
+
+
